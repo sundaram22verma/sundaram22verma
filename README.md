@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer · Backend & Microservices · Java | Spring Boot | AWS</h3>
 
 <p align="center">
-  <a href="https://sundaram22verma.github.io/My_Portfolio/index.html" target="_blank">
+  <a href="https://sundaram-portfolio-gules.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sundaram22verma" target="_blank">
